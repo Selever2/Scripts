@@ -1,4 +1,5 @@
 -- Version: 2.0
+local Destroyable = true
 local ScreenGui = Instance.new("ScreenGui")
 local Open = Instance.new("TextButton")
 local Destroy = Instance.new("TextButton")
